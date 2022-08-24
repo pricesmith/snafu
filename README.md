@@ -17,3 +17,6 @@ etc: https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archD
   
 rustgo:  
 https://words.filippo.io/rustgo/
+  
+more:  
+https://medium.com/@daniel.chia/writing-a-database-part-3-it-works-kinda-c325e08a8d0b  
