@@ -24,3 +24,6 @@ https://words.filippo.io/rustgo/
   
 more:  
 https://medium.com/@daniel.chia/writing-a-database-part-3-it-works-kinda-c325e08a8d0b  
+  
+misc:  
+https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980
