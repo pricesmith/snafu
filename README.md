@@ -11,3 +11,6 @@ https://cstack.github.io/db_tutorial/
 p2p Arch Info  
 https://medium.com/jorgeacetozi/cassandra-architecture-and-write-path-anatomy-51e339bcfe0c  
 etc: https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archDataDistributeReplication.html  
+  
+rustgo:  
+https://words.filippo.io/rustgo/
