@@ -4,6 +4,7 @@ Mostly, a KV store to experiment and understand how graph dbs and kg's work, und
   
 LSM Info  
 https://adambcomer.com/blog/simple-database/motivation-design/  
+https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f  
   
 B-Tree Info  
 https://cstack.github.io/db_tutorial/  
