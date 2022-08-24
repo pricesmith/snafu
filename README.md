@@ -1,6 +1,9 @@
 # snafu
 
-Mostly, a KV store to experiment and understand how graph dbs and kg's work, understand the tradeoffs, and convince myself I can work on an alternative if nothing fits my use cases. Also, yet another overly-ambitious project to learn rust. 
+Mostly, a distributed KV store to experiment and understand how graph dbs and kg's work, understand the tradeoffs, and convince myself I can work on an alternative if nothing fits my use cases. Also, yet another overly-ambitious project to learn rust. 
+
+Primary goal:
+-- Explore distributed p2p arch and impl for KV stores, particularly for the use case of distributed, p2p kgs. 
   
 LSM Info  
 https://adambcomer.com/blog/simple-database/motivation-design/  
