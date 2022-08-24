@@ -1,6 +1,6 @@
 # snafu
 
-Mostly, a KV store to experiment and understand how graph dbs and kg's work, understand the tradeoffs, and convince myself I can work on an alternative if nothing fits my use cases. 
+Mostly, a KV store to experiment and understand how graph dbs and kg's work, understand the tradeoffs, and convince myself I can work on an alternative if nothing fits my use cases. Also, yet another overly-ambitious project to learn rust. 
   
 LSM Info  
 https://adambcomer.com/blog/simple-database/motivation-design/  
